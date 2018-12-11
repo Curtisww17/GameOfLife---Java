@@ -1,0 +1,29 @@
+Generation 0
+......
+..XX..
+.X..X.
+..X.X.
+...X..
+......
+Generation 1
+......
+..XX..
+.X..X.
+..X.X.
+...X..
+......
+Generation 2
+......
+..XX..
+.X..X.
+..X.X.
+...X..
+......
+Generation 3
+......
+..XX..
+.X..X.
+..X.X.
+...X..
+......
+Cycle found in generation 1
